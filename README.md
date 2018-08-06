@@ -2,4 +2,4 @@
 Web Quran App using howler (javascript library)
 
 # Link 
-http://arbikthiri.tn/
+https://arbikthiri.netlify.com
